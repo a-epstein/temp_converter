@@ -21,8 +21,5 @@ also do a general comparison of common weather F and C temps
 
 also also make several different graphs using data from various seasons
 
-weeeee
-
-
 also separate - make a 'how many layers should i wear' app that pulls from temp, wind, cloud cover etc
 and tells me how many layers to wear
