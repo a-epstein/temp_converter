@@ -1,0 +1,28 @@
+import highs and lows from NY and Edinburgh for the next X days?
+
+find a csv of weather data history from Edinburgh and NY 
+
+convert both sets of data to F and C
+
+Plot temp highs of both cities in F and C against each other
+
+Plot temp lows ""
+
+Output two graphs
+
+
+Need to build
+web scraper
+F to C and back converter for lists
+
+graph in matplotlib?
+
+also do a general comparison of common weather F and C temps
+
+also also make several different graphs using data from various seasons
+
+weeeee
+
+
+also separate - make a 'how many layers should i wear' app that pulls from temp, wind, cloud cover etc
+and tells me how many layers to wear
