@@ -1,6 +1,6 @@
 
 
-def convert(scale:str, temp:float) -> float:
+def convert(temp:float, scale:str) -> float:
     """ Given temp scale F or C and a float temp, convert temp given to the other scale """
 
     scale = scale.lower()
