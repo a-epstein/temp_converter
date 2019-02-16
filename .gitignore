@@ -1,5 +1,5 @@
 .vscode/
 data/all_data/
 .ipynb_checkpoints/
-*.txt
 temp.code-workspace
+ideas/
